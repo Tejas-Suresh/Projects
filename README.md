@@ -1,4 +1,6 @@
-# Projects
-A collection of projects done on Jupyter Notebook.
+# TRAC(The Radio Astronomy Club)
+## A collection of technical tasks performed as a part of TRAC.
 
-The projects involve analysing NBA finals data and cleaning gravitational wave data.
+The projects involve analysing,plotting and cleaning gravitational wave data.
+
+
